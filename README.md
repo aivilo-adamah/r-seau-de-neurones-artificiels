@@ -36,7 +36,7 @@ Pour exécuter le projet, suivez les étapes ci-dessous :
 
 1.  **Cloner le dépôt Git :**
     ```bash
-    git clone [https://git.unistra.fr/harzhanau/project-reseau-de-neurones.git](https://git.unistra.fr/harzhanau/project-reseau-de-neurones.git)
+    git clone [https://github.com/aivilo-adamah/r-seau-de-neurones-artificiels.git](https://github.com/aivilo-adamah/r-seau-de-neurones-artificiels.git)
     cd project-reseau-de-neurones
     ```
 
@@ -78,12 +78,4 @@ Le dépôt est organisé comme suit :
 * `Utility.py` : Ce module centralise diverses fonctions mathématiques essentielles au projet, notamment des fonctions d'activation (`tanh`, `sigmoid`, `relu`, `softmax`) et des fonctions de coût (`cross_entropy_cost`, `MSE_cost`). Il supporte ainsi les calculs internes du réseau de neurones et potentiellement du modèle local.
 * `main.py` : Le point d'entrée principal du projet, contient toutes les étapes de l'analyse (chargement des données, entraînement du RNA, sélection des instances, génération des perturbations, entraînement des modèles locaux et affichage des graphiques).
 
-
-## Auteurs
-
-Ce projet a été réalisé par :
-
-* **HARZHANAU ANTON**
-* **ADAMAH AMELE OLIVIA**
-* **RUÉ THOMAS alias ADA**
 
